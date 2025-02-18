@@ -41,4 +41,7 @@ En esta sección presenta como deserción puede ir relacionada con las llamadas 
 
 En esta sección presentarán la comparación del servicio separado en dos franjas  horarias (diurno, nocturno)  versus la deserción.
 
+### **Consideraciones:**
+El Notebook [Grupo2_Guia_2.ipynb] esta Realizado en Ambiente Local con Jupyter Notebook, tener presente que al cargar el Set de Datos en la Seccion 1 debe de hacer relacion a una ubicacion dentro del Equipo, si este notebook es cargado a Colbal Igualmente tener presente que se debe de Cargar el Set de Datos a la Ruta \content 
+
  
